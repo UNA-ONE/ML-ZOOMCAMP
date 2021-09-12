@@ -9,4 +9,4 @@
 
 ### This repository contain all stuffs done by me in ML-Zoomcamp
 </br>
-ML-Zoom Camp is a course started by [Alexey Grigorev](https://github.com/alexeygrigorev)
+ML-Zoom Camp is a course started by Alexey Grigorev </br> https://github.com/alexeygrigorev
