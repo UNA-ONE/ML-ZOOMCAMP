@@ -42,7 +42,7 @@ Round both means before answering this questions. You can use the `round` functi
 * Invert `XTX`.
 * What's the sum of all the elements of the result?
 
-### Questions 7 
+### Question 7 
 
 * Create an array `y` with values `[1000, 1100, 900, 1200, 1000, 850, 1300]`.
 * Multiply the inverse of `XTX` with the transpose of `X`, and then multiply the result by `y`. Call the result `w`.
